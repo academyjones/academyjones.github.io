@@ -59,7 +59,7 @@ p { font-size: 4vw;
   }
   .column.full { 
   text-align: center ;
-  background-color: midnightblue;
+  background-color: #254061;
       border-style: solid;
     border-color: white;
   border-width: 15px;
@@ -69,7 +69,7 @@ p { font-size: 4vw;
 
 .column.third { 
   text-align: center ;
-  background-color: royalblue;
+  background-color: #558ED5;
   border-style: solid;
     border-color: white;
   border-width: 15px;
