@@ -72,11 +72,11 @@ p { font-size: 4vw;
   background-color: #558ED5;
   border-style: solid;
     border-color: white;
-  border-width: 15px;
+  border-width: 10px;
   padding-left: 10%;
   padding-right: 10%;
-  padding-top: 3%;
-  padding-bottom: 3%;
+  padding-top: 2%;
+  padding-bottom: 2%;
   }
   
   .column.full { width: 100%; }
