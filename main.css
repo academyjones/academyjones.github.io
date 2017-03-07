@@ -31,10 +31,10 @@ h2 { font-size: 5vw;
 }
 
 
-h3 { font-size: 2vw;
+h3 { font-size: 1vw;
   font-family: arial;
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   text-align: center;
   line-height: 1;
